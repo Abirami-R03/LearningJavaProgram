@@ -1,7 +1,5 @@
 package ex_01_Java_Basics;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class BooleanType {
     public static void main(String[] args) {
         boolean is_am_Topper = true;
