@@ -17,6 +17,7 @@ public class PrintlnVsPrintfVsPrint {
         System.out.printf("%d + %d",a,b);
         //it is double quote it consider as single string and print as it is
         System.out.printf("a = %d,b= %d",a,b);
+        System.out.println("a="+ a +","+"b="+ b);//instead of avoid confusion we are using Printf
 
     }
 }
