@@ -25,6 +25,7 @@ public class BankAccount {
 
     public double getBalanceAfterWithdraw() {
         return balance_after_withdraw;
+
     }
     public static void main(String[] args) {
         BankAccount account = new BankAccount();
